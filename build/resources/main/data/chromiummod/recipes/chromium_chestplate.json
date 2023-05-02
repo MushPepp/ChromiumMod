@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_chestplate"
+    },
+    "X": {
+      "item": "chromiummod:chromium_ingot"
+    }
+  },
+  "pattern": [
+    "X X",
+    "X#X",
+    "XXX"
+  ],
+  "result": {
+    "item": "chromiummod:chromium_chestplate"
+  }
+}

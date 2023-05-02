@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "chromium",
+  "ingredients": [
+    {
+      "item": "chromiummod:chromium_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "chromiummod:chromium_nugget"
+  }
+}

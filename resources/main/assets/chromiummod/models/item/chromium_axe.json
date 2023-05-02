@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "chromiummod:item/chromium_axe"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "chromiummod:chromium_block",
+          "conditions": [
+            {
+              "condition": "minecraft:match_tool",
+              "item": "chromiummod:chromium_pickaxe"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

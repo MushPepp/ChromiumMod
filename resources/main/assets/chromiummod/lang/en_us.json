@@ -1,0 +1,20 @@
+{
+  "item.chromiummod.chromium_ingot": "Chromium Ingot",
+  "item.chromiummod.raw_chromium": "Raw Chromium",
+  "item.chromiummod.chromium_nugget": "Chromium Nugget",
+  "item.chromiummod.chromium_pickaxe": "Chromium Pickaxe",
+  "item.chromiummod.chromium_axe": "Chromium Axe",
+  "item.chromiummod.chromium_sword": "Chromium Sword",
+  "item.chromiummod.chromium_shovel": "Chromium Shovel",
+  "item.chromiummod.chromium_hoe": "Chromium Hoe",
+  "item.chromiummod.chromium_helmet": "Chromium Helmet",
+  "item.chromiummod.chromium_chestplate": "Chromium Chestplate",
+  "item.chromiummod.chromium_leggings": "Chromium Leggings",
+  "item.chromiummod.chromium_boots": "Chromium Boots",
+
+  "block.chromiummod.chromium_ore": "Chromium Ore",
+  "block.chromiummod.chromium_block": "Chromium Block",
+  "block.chromiummod.raw_chromium_block": "Raw Chromium Block",
+
+  "itemGroup.chromiumtab": "Chromium"
+}

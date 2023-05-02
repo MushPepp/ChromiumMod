@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "chromiummod:chromium_ore",
+    "chromiummod:chromium_block",
+    "chromiummod:raw_chromium_block"
+  ]
+}

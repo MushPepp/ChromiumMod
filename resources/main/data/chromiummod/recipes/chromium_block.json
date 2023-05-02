@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "chromium",
+  "key": {
+    "#": {
+      "item": "chromiummod:chromium_ingot"
+    }
+  },
+  "pattern":[
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "chromiummod:chromium_block"
+  }
+}

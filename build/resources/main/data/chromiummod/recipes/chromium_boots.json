@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_boots"
+    },
+    "X": {
+      "item": "chromiummod:chromium_ingot"
+    }
+  },
+  "pattern": [
+    "X X",
+    "X#X"
+  ],
+  "result": {
+    "item": "chromiummod:chromium_helmet"
+  }
+}

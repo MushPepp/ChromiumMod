@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 300,
+  "experience": 0.25,
+  "ingredient": [
+    {
+      "item": "chromiummod:chromium_pickaxe"
+    },
+    {
+      "item": "chromiummod:chromium_shovel"
+    },
+    {
+      "item": "chromiummod:chromium_axe"
+    },
+    {
+      "item": "chromiummod:chromium_hoe"
+    },
+    {
+      "item": "chromiummod:chromium_sword"
+    },
+    {
+      "item": "chromiummod:chromium_helmet"
+    },
+    {
+      "item": "chromiummod:chromium_chestplate"
+    },
+    {
+      "item": "chromiummod:chromium_leggings"
+    },
+    {
+      "item": "chromiummod:chromium_boots"
+    }
+  ],
+  "result": "chromiummod:chromium_nugget"
+}
